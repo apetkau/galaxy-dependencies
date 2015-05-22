@@ -2,5 +2,5 @@
 
 cd `dirname $0`
 
-# Git commit 7a4695c6cdaa345e1b31f9c1f495b581e56f6810
-mvn install:install-file -Dfile=blend4j-0.2.0-SNAPSHOT.jar -DpomFile=blend4j-0.2.0-SNAPSHOT.pom -Dversion=0.2.0-SNAPSHOT-7a4695c6cdaa345e1b31f9c1f495b581e56f6810 -DcreateChecksum=true
+# Git commit ec2499861b11310743862b2d3e2f0a88dde27a51
+mvn install:install-file -Dfile=blend4j-0.2.0-SNAPSHOT.jar -DpomFile=blend4j-0.2.0-SNAPSHOT.pom -Dversion=0.2.0-SNAPSHOT-ec2499861b11310743862b2d3e2f0a88dde27a51 -DcreateChecksum=true
